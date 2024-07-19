@@ -1,0 +1,46 @@
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DB.mdf
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DB_log.ldf
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dashboard.csproj.Up2Date
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASHIL\Desktop\Dashboard management\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\DB.mdf
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\DB_log.ldf
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\LiveCharts.pdb
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\LiveCharts.xml
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\obj\Debug\Dashboard.csproj.Up2Date
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ASHIL\Desktop\Dashboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
